@@ -1,0 +1,4 @@
+.apresentacao__titulo{
+    display: inline; /* Coloca o titulo na mesma linha que o vetor */
+    margin-left: 20px; /* Coloca uma margem na esquerda */
+}

@@ -1,0 +1,4 @@
+.edutech__titulo{
+    display: inline; /* Coloca o titulo na mesma linha do vetor */
+    margin-left: 20px; /* Coloca uma margem a esquerda do titulo */
+}

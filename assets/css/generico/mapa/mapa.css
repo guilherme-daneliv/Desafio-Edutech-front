@@ -1,0 +1,5 @@
+.mapa{
+    margin: 1rem 2rem; /* Responsável pela margem da seção */
+    text-align: end; /* Alinha o conteúdo ao final da seção */
+    width: 45%; /* Dá o tamanho da seção */
+}

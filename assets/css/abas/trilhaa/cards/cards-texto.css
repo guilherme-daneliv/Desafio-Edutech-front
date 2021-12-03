@@ -1,0 +1,6 @@
+.cards__texto{
+    font-size: 16px;  /* Modifica o tamanho da fonte do texto */
+    line-height: 15px; /* Modifica o espacamento entre as linhas do texto */ 
+    margin: 0 0.5rem; /* Adciona uma margem para os lados no texto */
+    text-align: center; /* Alinha o texto no centro */
+}

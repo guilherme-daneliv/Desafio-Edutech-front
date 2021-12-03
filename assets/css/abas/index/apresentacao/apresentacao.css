@@ -1,0 +1,10 @@
+.apresentacao{
+    margin: 2rem 3rem; /* Define a margem da seção */
+}
+
+@media screen and (min-width: 922px) {
+    .apresentacao{
+        padding-left: 50px; /* Define o espaçamento interno esquerdo da seção em telas maiores ou iguais a 922px */
+        width: 40%; /* Define a largura da seção em telas maiores ou iguais a 922px */
+    }
+}

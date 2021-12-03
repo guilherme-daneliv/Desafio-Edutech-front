@@ -1,0 +1,9 @@
+.meet{
+    margin: 2rem 3rem; /* Adciona a margem na seção */
+}
+
+@media screen and (min-width: 922px) {
+    .meet{
+        margin-bottom: 3rem; /* Adciona uma margem abaixo da seção em telas maiores ou iguais a 922px */
+    }
+}

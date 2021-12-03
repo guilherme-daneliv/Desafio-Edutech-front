@@ -1,0 +1,5 @@
+.info__texto{
+    color: #fdfdfd; /* Responsável pela cor do texto */
+    text-align: center; /* Responsável pelo alinhamento central do texto */
+    width: 130px; /* Dá a largura em que o texto pode ocupar */
+}

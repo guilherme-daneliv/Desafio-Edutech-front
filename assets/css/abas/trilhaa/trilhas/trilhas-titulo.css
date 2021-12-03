@@ -1,0 +1,4 @@
+.trilhas__titulo{
+    display: inline; /* Colaca o titulo na mesma linha do vetor */
+    margin-left: 20px; /* Adciona uma margem a esquerda do titulo */
+}

@@ -1,0 +1,10 @@
+.cards__subtitulo{
+    color: #c4c4c4; /* Adciona uma cor ao subtitulo */
+    font-size: 16px; /* Modifica o tamanho da fonte do texto */
+}
+
+@media screen and (min-width: 922px) {
+    .cards__subtitulo{
+        text-align: center; /* Alinha o subtitulo ao centro em telas maiores ou iguais a 922px */
+    }
+}

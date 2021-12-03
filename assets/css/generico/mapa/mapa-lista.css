@@ -1,0 +1,4 @@
+.mapa__lista{
+    list-style: none; /* Tira a aparencia de lista */
+    width: 100%; /* Responsável pelo tamanho da seção */
+}

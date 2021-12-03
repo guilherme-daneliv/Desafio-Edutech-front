@@ -1,0 +1,22 @@
+.trilhas__img{
+    display: none; /* Retira a imagem em telas pequenas */
+}
+
+
+@media screen and (min-width: 922px) {
+    .trilhas__img{
+        display: inline; /* Adciona a imagem em telas maiores ou iguais a 922px */
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .trilhas__img{
+        margin-left: 80px; /* Adciona margens a imagem em telas maiores ou iguais a 1024px */
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .trilhas__img{
+        margin-left: 200px; /* Modifica margens a imagem em telas maiores ou iguais a 1200px */
+    }
+}

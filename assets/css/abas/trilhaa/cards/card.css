@@ -1,0 +1,19 @@
+.cards{
+    border: 1px solid #191970; /* Adciona uma borda no cartão */ 
+    border-radius: 5px; /* Adciona uma borda arredondada ao cartão */
+    display: inline-block; /*Ajuda no alinhamento do texto com a imagem */
+    height: 120px; /* Adciona a altura do cartão */
+    width: 322px; /* Adciona a largura do cartão */
+}
+
+@media screen and (min-width: 768px) {
+    .cards{
+        width: 610px; /* Modifica a largura do cartão em telas maiores ou iguais a 768px */
+    }
+}
+
+@media screen and (min-width: 922px) {
+    .cards{
+        width: 800px; /* Modifica a largura do cartão em telas maiores ou iguais a 922px */
+    }
+}

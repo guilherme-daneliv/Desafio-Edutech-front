@@ -1,0 +1,9 @@
+.edutech{
+    margin: 2rem 3rem; /* Define a margem da seção */
+}
+
+@media screen and (min-width: 922px) {
+    .edutech{
+        width: 45%; /* Define o tamanho da seção em telas maiores ou iguais a 922px */
+    }
+}

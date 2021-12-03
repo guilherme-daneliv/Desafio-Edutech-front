@@ -1,0 +1,7 @@
+.info__botao{
+    background-color: #fdfdfd; /* Dá a cor de fundo do botão */
+    border: none; /* Despensa o uso de bordas */
+    border-radius: 5px; /* Dá um efeito arredondado ao botão */
+    height: 30px; /* traz a dimensão de altura do botão */
+    width: 130px; /* traz a dimensão de largura do botão */
+}

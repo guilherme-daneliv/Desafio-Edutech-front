@@ -1,0 +1,15 @@
+.carrousel__img{
+    height: 40vh; /* Define a altura da imagem em Celulares */
+}
+
+@media screen and (min-width: 768px) {
+    .carrousel__img{
+        height: 70vh; /* Define a altura da imagem em Tablets */
+    }
+}
+
+@media screen and (min-width: 922px) {
+    .carrousel__img{
+        height: 100vh; /* Define a altura da imagem em Desktops */
+    }
+}

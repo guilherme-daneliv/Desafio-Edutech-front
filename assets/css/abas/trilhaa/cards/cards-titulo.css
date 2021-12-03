@@ -1,0 +1,12 @@
+.cards__titulo{
+    color: #191970; /* Adciona uma cor ao titulo */
+    font-size: 18px; /* Modifica o tamanho da fonte do titulo */
+    font-weight: bold; /* Deixa a fonte em negrito */
+    margin: 0; /* Retira todas as margens padrões do titulo */
+}
+
+@media screen and (min-width: 922px) {
+    .cards__titulo{
+        text-align: center; /* Coloca o titulo ao centro em telas maiores ou iguais a 922px */
+    }
+}

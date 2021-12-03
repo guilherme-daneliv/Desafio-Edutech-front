@@ -1,0 +1,16 @@
+.alura__botao{
+    background-color: #191970; /* Adciona a cor de fundo no botão */
+    border: none; /* Retira a borda padrão */
+    border-radius: 5px; /* Adciona uma borda arredondada ao botão */
+    color: #fdfdfd; /* Adiciona uma cor ao texto do botão */
+    height: 35px; /* Adciona uma altura ao botão */
+    margin: 1rem 2.5rem; /* Adciona uma margem ao botão */
+    text-align: center; /* Alinha o texto ao centro */
+    width: 180px; /* Adciona uma largura ao botão */
+}
+
+@media screen and (min-width: 768px) {
+    .alura__botao{
+        margin: 1rem 0; /* Modifica a margem do botão em telas maiores ou iguais a 768px */
+    }
+}
