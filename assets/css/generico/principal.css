@@ -1,0 +1,5 @@
+@media screen and (min-width: 922px) {
+    .principal{
+        display: flex; /*Responsável pelo alinhamento horizontal em telas grandes*/
+    }
+}

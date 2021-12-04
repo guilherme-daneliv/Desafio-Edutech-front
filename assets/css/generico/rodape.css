@@ -1,0 +1,8 @@
+.rodape{
+    background-color: #191970; /* Muda a cor para um tom de azul */
+    height: 220px; /* Responsável pela altura do rodapé */
+}
+
+.rodape__principal{
+    display: flex; /* Alinhamentohorizontal das seções info e mapa */
+}

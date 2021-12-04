@@ -1,0 +1,4 @@
+.vector{
+    display: inline; /* Faz com que o vetor ocupe somente o espaço de seu tamenho na linha */
+    vertical-align: text-top; /* Alinha o vetor no topo do texto */
+}
